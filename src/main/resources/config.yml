@@ -1,0 +1,30 @@
+max-num: 10
+
+max-height: 100
+max-width: 100
+max-long: 100
+
+min-height: 10
+min-width: 10
+min-long: 10
+
+price: 10
+help-info:
+  - "%player_name%"
+  - "%use_money%"
+  - "%large%"
+
+hoe: true
+
+select-info:
+  - "坐标1："
+  - "%location_1_x%"
+  - "%location_1_y%"
+  - "%location_1_z%"
+  - "坐标2："
+  - "%location_2_x%"
+  - "%location_2_y%"
+  - "%location_2_z%"
+
+success-info: "执行成功"
+fail-info: "执行失败"
